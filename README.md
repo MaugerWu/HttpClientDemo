@@ -12,11 +12,3 @@
 2. httpclient-4.5.6.jar
 3. httpcore-4.4.10.jar
 4. log4j-1.2.17.jar
-
-## · JDK Version
-
-java version "1.8.0_65"
-
-Java(TM) SE Runtime Environment (build 1.8.0_65-b17)
-
-Java HotSpot(TM) 64-Bit Server VM (build 25.65-b01, mixed mode)
