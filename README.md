@@ -11,4 +11,3 @@
 1. commons-httpclient-3.1.jar
 2. httpclient-4.5.6.jar
 3. httpcore-4.4.10.jar
-4. log4j-1.2.17.jar
